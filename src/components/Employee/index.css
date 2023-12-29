@@ -1,0 +1,159 @@
+.employee-cont {
+  top: 0px;
+  left: 876px;
+  width: 360px;
+  height: 800px;
+  /* UI Properties */
+  background: transparent linear-gradient(180deg, #000000 0%, #000e09 100%) 0%
+    0% no-repeat padding-box;
+  mix-blend-mode: normal;
+  border-radius: 28px;
+  opacity: 1;
+}
+
+.search-cont-emp {
+  margin-top: 40px;
+  margin-left: 30px;
+  width: 298px;
+  height: 40px;
+  background: #5e5e5e82 0% 0% no-repeat padding-box;
+  box-shadow: inset 0px 4px 0px #00000040;
+  mix-blend-mode: normal;
+  border: 1px solid #595959;
+  opacity: 0.4;
+  border-radius: 20px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  align-items: center;
+}
+
+.input-style {
+  height: 50px;
+  background: transparent;
+  border: none;
+  border-radius: 20px;
+  outline: none;
+  color: white;
+}
+
+.search-icon {
+  top: 206px;
+  left: 1158px;
+  width: 25px;
+  height: 25px;
+  /* UI Properties */
+  background: transparent 0% 0% no-repeat padding-box;
+  mix-blend-mode: normal;
+  opacity: 0.7;
+}
+
+.employee-card {
+  margin-top: 40px;
+  margin-left: 15px;
+  width: 275px;
+  padding: 10px;
+  color: white;
+  background: #5e5e5e82 0% 0% no-repeat padding-box;
+  box-shadow: inset 0px 4px 0px #00000040;
+  mix-blend-mode: normal;
+  opacity: 0.4;
+  /* filter: blur(2px); */
+  border-radius: 20px;
+}
+.employee-card2 {
+  margin-top: 40px;
+  margin-left: 40px;
+  width: 275px;
+  padding: 10px;
+  color: white;
+  background: #5e5e5e82 0% 0% no-repeat padding-box;
+  box-shadow: inset 0px 4px 0px #00000040;
+  mix-blend-mode: normal;
+  opacity: 0.4;
+  /* filter: blur(2px); */
+  border-radius: 20px;
+}
+.emp-id-cont {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.emp-id {
+  font: normal normal normal 12px/16px Mulish;
+  letter-spacing: 0.01px;
+  color: #ffffff;
+  opacity: 1;
+  margin-bottom: 0px;
+}
+.emp-id1 {
+  font: normal normal normal 12px/16px Mulish;
+  letter-spacing: 0.01px;
+  color: #ffffff;
+  opacity: 1;
+  border-radius: 50px;
+  margin-bottom: 0px;
+}
+
+.name {
+  font: normal normal normal 12px/16px Mulish;
+  letter-spacing: 0.01px;
+  color: #ffffff;
+  opacity: 1;
+  text-align: left;
+}
+.dob-date {
+  color: orange;
+}
+.role {
+  color: #00ff2580;
+}
+
+.name-cont {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 100px;
+}
+
+.home-icon {
+  width: 22px;
+  height: 22px;
+  background: transparent #00ff2580 0% 0% no-repeat padding-box;
+  mix-blend-mode: normal;
+  opacity: 0.5;
+  color: #36a546;
+  background-color: #00ff2580;
+  border-radius: 8px;
+}
+
+.home-prof-cont1 {
+  width: 360px;
+  height: 70px;
+  background: transparent linear-gradient(262deg, #0f2323 0%, #0f2323 40%) 0% 0%
+    no-repeat padding-box;
+  box-shadow: inset 8px 4px 4px #00000040;
+  mix-blend-mode: normal;
+  border: 1px solid #0f2323;
+  opacity: 1;
+  border-radius: 20px;
+  margin-top: 75px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  align-items: center;
+}
+/* .home-card {
+    width: 181px;
+    height: 57px;
+    background: #38383880 0% 0% no-repeat padding-box;
+    mix-blend-mode: normal;
+    border: 1px solid;
+    opacity: 1;
+  
+    border-radius: 20px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+  } */
